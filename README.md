@@ -1,0 +1,2 @@
+# declaracion
+una declaracion
